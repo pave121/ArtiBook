@@ -10,9 +10,6 @@ class Pages extends Controller{
     
     public function index(){
         
-        if(isLoggedIn){
-            redirect('Posts');
-        }
         
         $data = [
             'title' => 'ArtiBook',

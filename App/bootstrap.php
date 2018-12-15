@@ -8,6 +8,7 @@ require_once 'Helpers/url_helper.php';
 require_once 'Helpers/session_helper.php';
 require_once 'Helpers/format_output.php';
 //require_once 'Helpers/format_input.php';
+require_once 'Helpers/test.php';
 
 //require libraries, config, helpers...
 //require_once 'Libraries/Core.php';
